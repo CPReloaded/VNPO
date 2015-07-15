@@ -1,7 +1,8 @@
 # VNPO
  
 
-> The project **VNPO** was build for check if number is prime
+> The project **VNPO** was built for check if number is prime
+
 Benefits:
  
 - So you no longer need to be making those mental arithmetic all
