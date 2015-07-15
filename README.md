@@ -3,6 +3,9 @@
 
 > The project **VNPO** was built for check if number is prime
 
+Requesites:
+- PHP 5.X
+
 Benefits:
  
 - So you no longer need to be making those mental arithmetic all
