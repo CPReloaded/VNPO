@@ -17,7 +17,7 @@
  * with a Creative Commons License - Attribution-NonCommercial 4.0 International.
  * https://i.creativecommons.org/l/by-nc/4.0/88x31.png
  */
-function check_prime(n){
+function check_prime($n){
 $p = true;
 if($n < 100000001){
 for ($i = 1; $i <= $n; $i++){
