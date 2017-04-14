@@ -10,12 +10,6 @@
  *
  *
  * 
- * The VNPO Project was built to check whether a number is prime
- * So no longer need to be doing mental arithmetic
- * License:
- * The VNPO work is licensed Rafael Romão
- * with a Creative Commons License - Attribution-NonCommercial 4.0 International.
- * https://i.creativecommons.org/l/by-nc/4.0/88x31.png
  */
 function check_prime($n){
 $p = true;
